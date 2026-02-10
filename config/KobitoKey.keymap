@@ -40,7 +40,7 @@ ex#include <behaviors.dtsi>
 &kp Q      &kp L     &kp U     &kp COMMA    &kp DOT      &kp F     &kp W        &kp R      &kp Y      &kp P
 &kp E      &kp I     &kp A     &kp O        &kp EQL      &kp K     &kp T        &kp N      &kp S      &kp H
 &kp Z      &kp X     &kp C     &kp V        &kp APOS     &kp G     &kp D        &kp M      &kp J      &kp B
-&kp LSHFT  &kp LANG2  &kp LALT  &lt 2 SPACE  &kp LCTRL  &kp BSPC  &lt 1 ENTER  &kp RSHFT  &kp LANG1  &mt LALT SLASH
+&kp LSHFT  &kp LANG2  &kp LALT  &lt 2 SPACE  &kp LCTRL  &kp BSPC  &lt 1 ENTER  &kp RSHFT  &kp RSHFT  &mt LANG1  SLASH
             >;
         };
 
